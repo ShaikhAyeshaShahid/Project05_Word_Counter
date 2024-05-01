@@ -14,4 +14,7 @@
   "dependencies": {
     "inquirer": "^9.2.20"
   },
-  "devDependencies"
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
